@@ -1,1 +1,2 @@
--e  #!/bin/bash\nid -u -n 
+#!/bin/bash 
+su betty 
